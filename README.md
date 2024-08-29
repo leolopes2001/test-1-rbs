@@ -10,7 +10,7 @@ npm install</code></pre>
 <h2>Front End</h2>
     <ol>
         <li><strong>Instalar dependências:</strong></li>
-        <pre><code>cd front-end npm install</code></pre>
+        <pre><code>cd front-end; npm install</code></pre>
         <li><strong>Iniciar o servidor de desenvolvimento:</strong></li>
         <pre><code>ng serve</code></pre>
     </ol>
