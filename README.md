@@ -7,11 +7,10 @@ npm install</code></pre>
         <pre><code>node src/app.js</code></pre>
     </ol>
 
-    <h2>Front End</h2>
+<h2>Front End</h2>
     <ol>
         <li><strong>Instalar dependências:</strong></li>
-        <pre><code>cd front-end
-npm install</code></pre>
+        <pre><code>cd front-end npm install</code></pre>
         <li><strong>Iniciar o servidor de desenvolvimento:</strong></li>
         <pre><code>ng serve</code></pre>
     </ol>
